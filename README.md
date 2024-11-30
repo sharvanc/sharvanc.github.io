@@ -22,4 +22,4 @@ My interests are mainly in  _understanding how to reason with language models_. 
 **PDF to Structured Data Pipeline**: Converted complex PDF data into Markdown format using VLMs (GPT-4o) for seamless content analysis.
 
 ## Links
-[[CV](https://github.com/sharvanc/sharvanc.github.io/blob/main/files/CV.pdf),  [GitHub](https://github.com/sharvanc),  [LinkedIn](https://www.linkedin.com/in/sharvanc/)]
+[[CV](https://sharvanc.github.io/files/CV.pdf),  [GitHub](https://github.com/sharvanc),  [LinkedIn](https://www.linkedin.com/in/sharvanc/)]
