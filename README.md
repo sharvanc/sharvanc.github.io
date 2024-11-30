@@ -8,7 +8,7 @@ Contact:  [mhdsharvanc@gmail.com](mailto:mhdsharvanc@gmail.com)
 
 I am a Data Scientist II at **[Honeywell](https://www.honeywell.com/in/en)**. I am primarily interested in reinforcement learning, language models, and reasoning.
 
-Previously, I worked as a Data Scientist at **[ZS Associates](https://www.zs.com/india)**.
+Previously, I worked as a Data Scientist at **[ZS Associates](https://www.zs.com/india)** after completing my dual degree (B.Tech + M.Tech) from **[IIT Kharagpur](https://www.iitkgp.ac.in/)**.
 
 My interests are mainly in  _understanding how to reason with language models_. A few core machine learning topics that excite me are as follows:
 
