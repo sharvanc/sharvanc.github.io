@@ -6,8 +6,8 @@ Previously, I worked as a Data Scientist at **[ZS Associates](https://www.zs.com
 
 My interests are mainly in  _understanding how to reason with language models_. A few core machine learning topics that excite me are as follows:
 
-- Reasoning with language models (e.g.: inference time compute)
-- Reinforcement learning, self-play (e.g.: Alpha Go)
+- Reasoning with language models (like inference time compute)
+- Reinforcement learning, self-play (like Alpha Go)
 - Multi-modal language models (Speech/Vision)
 - Probabilistic modeling, uncertainty estimation, and Bayesian methods
 
