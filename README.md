@@ -4,10 +4,10 @@ I am a Data Scientist II at **[Honeywell](https://www.honeywell.com/in/en)**. I 
 
 Previously, I worked as a Data Scientist at **[ZS Associates](https://www.zs.com/india)**.
 
-My interests are mainly in  _understanding how to reason with language models_. A few core machine learning issues that excite me are as follows:
+My interests are mainly in  _understanding how to reason with language models_. A few core machine learning topics that excite me are as follows:
 
-- Reasoning with language models (Like with inference time compute)
-- Reinforcement learning, self-play (Like Alpha Go)
+- Reasoning with language models (inference time compute, etc.)
+- Reinforcement learning, self-play (Alpha Go, etc.)
 - Multi-modal language models (Speech/Vision)
 - Probabilistic modeling, uncertainty estimation, and Bayesian methods
 
