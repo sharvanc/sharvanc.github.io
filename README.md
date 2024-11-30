@@ -5,7 +5,6 @@
 Contact:  [mhdsharvanc@gmail.com](mailto:mhdsharvanc@gmail.com)
 
 <br>
-<br>
 
 I am a Data Scientist II at **[Honeywell](https://www.honeywell.com/in/en)**. I am primarily interested in reinforcement learning, language models, and reasoning.
 
