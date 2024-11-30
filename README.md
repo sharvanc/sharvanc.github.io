@@ -23,8 +23,6 @@ My interests are mainly in  _understanding how to reason with language models_. 
 
 **Web Q&A**: Developed a perplexity-like web research functionality that can provide rich responses to user queries using real-time web search.
 
-**Marketing Mix**: Created a Bayesian marketing mix model to analyze the marketing efforts followed by an optimizer to maximize ROI.
-
 **PDF to Structured Data Pipeline**: Converted complex PDF data into Markdown format using VLMs (GPT-4o) for seamless content analysis.
 
 ## Links
